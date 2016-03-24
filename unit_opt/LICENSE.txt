@@ -1,0 +1,17 @@
+When you downloaded these files, you have agreed with the following COPYRIGHT and TERMS OF USE:
+
+This work was entirely developed at the Department of Signal Processing and Acoustics, Aalto University, Espoo, Finland, during 2005-2008 in collaboration with Jan Eriksson and Visa Koivunen who are greatly acknowledged. The codes were written by Traian Abrudan ©2007. These codes must be used under the following terms:
+
+   1. The authors support reproducible research and open source software and therefore, they require their credits to be given. No part of these codes may be used without mentioning the original authors. In case these codes (or modified versions of them) are used, please cite the corresponding papers as follows.
+
+      -   when using the Conjugate Gradient (CG) algorithm cite [1] 
+      -   when using the Steepest Descent/Ascent (SD/SA) algorithms, please cite [2]. 
+      -   when using the polynomial-based or the DFT-based line search methods, please cite [1]. 
+
+   2. These codes should ONLY be used for educational and scientific purposes (e.g. to be compared to other algorithms), and in non-commercial scopes.
+
+   3. These codes come for free as they are, and the authors do not assume any responsibility for their usage.
+
+I AGREE, download the Matlab scripts for optimization under unitary matrix constraint:
+
+Comments, questions and suggestions may be sent to abrudant@gmail.com
